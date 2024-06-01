@@ -1,10 +1,10 @@
 # Weather Forecast App
 
-# Overview
+## Overview
 
 The Weather Forecast App provides accurate and up-to-date weather information for any location. With a sleek interface, users can check current weather conditions, view hourly and weekly forecasts, and get important weather alerts.
 
-# Features
+## Features
 
 1. Current Weather: Get real-time weather updates for your selected location.
 2. Hourly Forecast: View detailed weather predictions for the next 24 hours.
