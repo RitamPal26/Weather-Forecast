@@ -1,3 +1,18 @@
+# Weather Forecast App
+
+# Overview
+
+The Weather Forecast App provides accurate and up-to-date weather information for any location. With a sleek interface, users can check current weather conditions, view hourly and weekly forecasts, and get important weather alerts.
+
+# Features
+
+1. Current Weather: Get real-time weather updates for your selected location.
+2. Hourly Forecast: View detailed weather predictions for the next 24 hours.
+3. Weekly Forecast: See the weather outlook for the next 7 days.
+4. Weather Alerts: Receive notifications about severe weather conditions.
+5. Search Locations: Easily search and add multiple locations to track weather.
+6. Interactive Maps: Visualize weather patterns with interactive maps.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
